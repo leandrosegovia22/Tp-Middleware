@@ -1,0 +1,110 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Oswald', sans-serif;
+}
+h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{
+    color: inherit;
+    text-decoration: inherit;
+}
+.mbt-4{
+    margin-bottom: 1rem;
+}
+.color-rojo{
+    color: #c23616;
+}
+.bgc-rojo{
+    display: inline-block;
+    padding: 0em .4em;
+    background-color: #c23616;
+
+}
+.btn{
+    display: block;
+    width: min-content;
+    padding: .3em 1em;
+    font-size: 1rem;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn-rojo{
+    color: #fff;
+    background-color: #c23616;
+}
+
+.bg-mononoke{
+    background-color: #000;
+    background-image: url('/images/mononokeHime.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.mvh-100{
+    min-height: 100vh;
+    height: 100%;
+}
+
+.header__title,
+.header__subtitle{
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.header__title{
+    color: #c23616;
+}
+.header__subtitle{
+    font-weight: 200;
+    margin-bottom: 1rem;
+}
+
+.contador__item{
+    position: relative;
+    height: 100px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: #dcdde1;
+    text-align: center;
+    cursor: pointer;
+}
+.contador__item:not(.f-order-5):after{
+    position: absolute;
+    top: 5px;
+    right: -1rem;
+    content: '';
+    height: 100px;
+    width: 1px;
+    background-color: #c23616;
+}
+
+.contador__header{
+    font-family: 'Oswald', sans-serif;
+    font-size: 3rem;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.contador__footer{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+}
+.contador__footer a{
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.text-center{
+    text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    .contador__item:not(:last-child):after{
+        width: 50%;
+        height: 1px;
+        top: auto;
+        left: 25%;;
+        bottom: -1rem;
+        margin-top: .5rem;
+        margin-bottom: .5rem;
+    }
+}

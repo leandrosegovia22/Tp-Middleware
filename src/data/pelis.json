@@ -1,0 +1,64 @@
+[
+    {
+        "id": "kaguya",
+        "name": "El cuento de la princesa Kaguya",
+        "image": "kaguya.jpg",
+        "sinopsis": "Basada en un cuento popular japonés anónimo del siglo IX, 'El cortador de bambú'. La historia comienza cuando una pareja de ancianos campesinos encuentra a una niña diminuta dentro de una planta de bambú, y deciden adoptarla como si fuera su hija. Pasan los años, y rápidamente se convierte en una hermosa mujer pretendida por muchos hombres poderosos.",
+        "path": "/ghibli/kaguya",
+        "conteo": 1,
+        "order": 5
+    },
+    {
+        "id": "nausicaa",
+        "name": "Nausicaä del Valle del Viento",
+        "image": "nausicaa.jpg",
+        "sinopsis": "En un futuro lejano, mil años después de una guerra de carácter apocalíptico, la Tierra aparece cubierta de bosques plagados de hongos venenosos y de insectos gigantescos. Los hombres han sido diezmados; los supervivientes viven en algunos poblados aislados y sobreviven a duras penas en las cercanías de un bosque contaminado con gases tóxicos e insectos mutantes gigantes, que cubren gran parte de la Tierra. Nausicaä es la princesa de El Valle de Viento, un reino minúsculo, rodeado de reinos más poderosos y hostiles. Es una guerrera que sabe pilotar naves, pero es también compasiva, tanto que se resiste a ver a los insectos como enemigos, sobre todo a los Ohms, artrópodos gigantescos y temibles por los que siente una extraña simpatía. La crisis estalla cuando el reino vecino de Tolmekia, encabezado por la princesa Kushana, invade El Valle del Viento.",
+        "path": "/ghibli/nausicaa",
+        "conteo": 2,
+        "order": 3
+    },
+    {
+        "id": "luciernaga",
+        "name": "La tumba de las luciérnagas",
+        "image": "luciernaga.jpg",
+        "sinopsis": "Segunda Guerra Mundial (1939-1945). Seita y Setsuko son hijos de un oficial de la marina japonesa que viven en Kobe. Un día, durante un bombardeo, no consiguen llegar a tiempo al búnker donde su madre los espera. Cuando después buscan a su madre, la encuentran malherida en la escuela, que ha sido convertida en un hospital de urgencia.",
+        "path": "/ghibli/luciernaga",
+        "conteo": 1,
+        "order": 4
+    },
+    {
+        "id": "chihiro",
+        "name": "El viaje de Chihiro",
+        "image": "chihiro.jpg",
+        "sinopsis": "Chihiro es una niña de diez años que viaja en coche con sus padres. Después de atravesar un túnel, llegan a un mundo fantástico, en el que no hay lugar para los seres humanos, sólo para los dioses de primera y segunda clase. Cuando descubre que sus padres han sido convertidos en cerdos, Chihiro se siente muy sola y asustada.",
+        "path": "/ghibli/chihiro",
+        "conteo": 1,
+        "order": 1
+    },
+    {
+        "id": "mononoke",
+        "name": "La princesa Mononoke",
+        "image": "mononoke.jpg",
+        "sinopsis": "Con el fin de curar la herida que le ha causado un jabalí enloquecido, el joven Ashitaka sale en busca del dios Ciervo, pues sólo él puede liberarlo del sortilegio. A lo largo de su periplo descubre cómo los animales del bosque luchan contra hombres que están dispuestos a destruir la Naturaleza.",
+        "path": "/ghibli/mononoke",
+        "conteo": 3,
+        "order": 0
+    },
+    {
+        "id": "ghibli",
+        "name": "Estudio Ghibli",
+        "image": "ghibli.jpg",
+        "sinopsis": "Studio Ghibli (スタジオジブリ Sutajio Jiburi?) es un estudio japonés de animación, considerado por la crítica especializada y muchos cinéfilos como uno de los mejores estudios de animación del mundo en la actualidad. El estudio es mejor conocido por sus largometrajes animados y también ha producido varios cortometrajes, comerciales de televisión y una película para televisión. Fue fundado el 15 de junio de 1985 por los directores Hayao Miyazaki e Isao Takahata y el productor Toshio Suzuki , después del éxito de la película de anime de Topcraft Nausicaä del Valle del Viento (1984). Studio Ghibli también ha colaborado con estudios de videojuegos en el desarrollo visual de varios videojuegos. Seis de las películas de Studio Ghibli se encuentran entre las 10 películas de anime más taquilleras realizadas en Japón, siendo El Viaje de Chihiro (2001) la segunda más alta, recaudando más de 360 ​​millones de dólares en todo el mundo. Muchos de sus trabajos han ganado el premio Animage Anime Grand Prix, y cuatro han ganado el Premio de la Academia Japonesa de Animación del Año. Cinco de las películas de Studio Ghibli han recibido nominaciones al Óscar. El Viaje de Chihiro ganó el Oso de Oro en 2002 y el Premio de la Academia a la Mejor Película de Animación en 2003. Totoro, un personaje de Mi vecino Totoro, es la mascota del estudio.",
+        "path": "/ghibli",
+        "conteo": 2
+    },
+    {
+        "id": "totoro",
+        "name": "Mi vecino totoro",
+        "image": "tonari.jpg",
+        "sinopsis": "En los años 50, una familia japonesa se traslada al campo. Las dos hijas, Satsuki y Mei, entablan amistad con Totoro, un espíritu del bosque. El padre es un profesor universitario que estimula la imaginación de sus hijas relatándoles fábulas e historias mágicas sobre duendes, fantasmas y espíritus protectores de los hogares, mientras la madre se encuentra enferma en el hospital.",
+        "path": "/ghibli/totoro",
+        "conteo": 4,
+        "order": 2
+    }
+]

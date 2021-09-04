@@ -1,0 +1,12 @@
+<div class="mb-8 header__contador">
+    <div class="concon f-center">
+        <% peliculas.forEach(pl => {   %> 
+        <div class="mb-12 tb-2 f-main-y f-center contador__item f-order-<%= pl.order %>  ">
+            <h2 class="contador__header"><%= pl.conteo.toString().padStart(2,0) %> </h2>
+            <div class="contador__footer">
+                <a href="<%= pl.path %>"><%= pl.path %></a>
+            </div>
+        </div>
+        <% })  %> 
+    </div>
+</div>

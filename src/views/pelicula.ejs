@@ -1,0 +1,14 @@
+<%- include('./partials/head') %> 
+<body>
+    <header class="w-100">
+        <img src="/images/<%= pelicula.image %> " alt="<%= pelicula.name %> ">
+    </header>
+    <main class="container text-center">
+        <h1 class="mb-12 f-main-center"><%= pelicula.name %> </h1>
+        <p class="mb-12 f-main-center"><%= pelicula.sinopsis %> </p>
+    </main>
+    <footer class="mbt-4">
+        <a href="/" class="btn btn-rojo mx-auto">REGRESAR</a>
+    </footer>
+</body>
+</html>

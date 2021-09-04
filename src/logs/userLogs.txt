@@ -1,0 +1,20 @@
+Se visito /ghibli/mononoke (total: 2)
+Se visito /ghibli/chihiro (total: 1)
+Se visito /ghibli (total: 1)
+Se visito /ghibli/totoro (total: 2)
+
+Tim Ingreso a /admin?user=tim
+
+Un usuario anónimo intento ingresar a /admin?user=timdsfds
+Se visito /ghibli/mononoke (total: 3)
+Se visito /ghibli (total: 2)
+Se visito /ghibli/totoro (total: 3)
+Se visito /ghibli/totoro (total: 4)
+
+Tim Ingreso a /admin?user=tim
+
+Un usuario anónimo intento ingresar a /admin
+
+Tim Ingreso a /admin?user=tim
+
+Un usuario anónimo intento ingresar a /admin
